@@ -11,11 +11,17 @@
 
 ---
 
-## 🎥 Project Preview
+## 🎥 Live Project Demonstration
 
-Check out the project preview video to get a visual overview of the platform:
+Experience Nexus Social in action — the demo below walks through the core features and user experience of the platform, from authentication and post creation to the admin CMS and real-time interactions.
 
-[![Watch the Project Preview Video](https://img.shields.io/badge/YouTube-Watch_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/sy2gPF2ULxY)
+<div align="center">
+  <video controls preload="metadata" poster="preview/preview.webp" width="100%" style="max-width:900px;border-radius:8px;">
+    <source src="preview/Nexus Project.mp4" type="video/mp4">
+    <p>Your browser does not support HTML5 video.
+    <a href="preview/Nexus Project.mp4" download>Download the demo video</a> to watch it locally.</p>
+  </video>
+</div>
 
 ---
 
@@ -100,7 +106,7 @@ Check out the project preview video to get a visual overview of the platform:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ReBestX/Nexus.git
+   git clone https://github.com/aymanbismail/Nexus.git
    cd Nexus
    ```
 
@@ -345,10 +351,10 @@ This project is licensed under the **ISC License**.
 
 ## 👨‍💻 Author
 
-**Ayman Ismail (ReBestX)**
+**Ayman Ismail**
 
 - 🔗 LinkedIn: [aymanbismail](https://www.linkedin.com/in/aymanbismail/)
-- 🐙 GitHub: [ReBestX](https://github.com/ReBestX)
+- 🐙 GitHub: [aymanbismail](https://github.com/aymanbismail)
 
 ---
 
