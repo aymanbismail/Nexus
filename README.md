@@ -16,11 +16,11 @@
 Experience Nexus Social in action — the demo below walks through the core features and user experience of the platform, from authentication and post creation to the admin CMS and real-time interactions.
 
 <div align="center">
-  <video controls preload="metadata" poster="preview/preview.webp" width="100%" style="max-width:900px;border-radius:8px;">
-    <source src="preview/Nexus Project.mp4" type="video/mp4">
-    <p>Your browser does not support HTML5 video.
-    <a href="preview/Nexus Project.mp4" download>Download the demo video</a> to watch it locally.</p>
-  </video>
+  <a href="preview/Nexus%20Project.mp4">
+    <img src="preview/preview.webp" alt="Nexus Social — Click to watch demo" width="900" />
+  </a>
+  <br/>
+  <sub>▶ Click the preview above to watch the full demo video</sub>
 </div>
 
 ---
